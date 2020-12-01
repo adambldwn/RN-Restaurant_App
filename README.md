@@ -1,2 +1,2 @@
 # Restaurant_App
-Webdeb random restaurant verisi çekme
+Webden random restaurant verisi çekme
